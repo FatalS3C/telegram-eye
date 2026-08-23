@@ -1,5 +1,7 @@
 # 👁️ TELEGRAM-EYE
 
+![TELEGRAM-EYE](https://raw.githubusercontent.com/FatalS3C/telegram-eye/refs/heads/main/telegram-eye.jpeg)
+
 > **Archive. Analyze. Observe.**
 
 **telegram-eye** é uma ferramenta de arquivamento e monitoramento de dados do Telegram, desenvolvida para coletar e organizar conteúdos de alvos previamente configurados pelo usuário.
