@@ -22,18 +22,12 @@ O usuário é integralmente responsável pela utilização da ferramenta e pelo 
 
 # ✨ Funcionalidades
 
-* 🔐 Autenticação através de uma sessão do Telegram
-* 🎯 Configuração de múltiplos IDs como alvos
-* 💬 Arquivamento de mensagens
-* 🖼️ Armazenamento de mídias e imagens
-* 📁 Organização dos dados coletados
-* 🗃️ Geração automática do script de coleta
-* ⚙️ Criação de serviço para Linux
-* 🚀 Inicialização automática em VPS ou computador
-* 📦 Exportação dos dados coletados
-* 🌐 Dump em **HTML**
-* 📄 Dump em **TXT**
-* 🧩 Dump em **JSON**
+* Salvamento de mensagens
+* Salvamento de mídias
+* Stealth
+* Dump em **HTML**
+* Dump em **TXT**
+* Dump em **JSON**
 
 ---
 
